@@ -5,7 +5,8 @@ module.exports = {
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Guide', link: '/guide/' },
-          { text: 'External', link: 'https://google.com' },
+          
+          { text: 'Github', link: 'https://github.com/sumyyoo/sumyyoo.github.io' },
         ]
       }
   }
